@@ -11,7 +11,7 @@ about:
 ::: column-page
 ## Bio
 
-I am a PhD Candidate in Political Science at the Massachusetts Institute of Technology. I study comparative political behavior, with a focus on urbanization and mobility in sub-Saharan Africa. My dissertation examines how urban mobility shapes political participation in Lagos, Nigeria. Other research interests include ethnic politics and public service provision.
+I am a PhD Candidate in Political Science at the Massachusetts Institute of Technology, where I am a Graduate Fellow at the [Global Diversity Lab](https://globaldiversitylab.mit.edu/). I study comparative political behavior, with a focus on urban politics in sub-Saharan Africa. My dissertation examines how urban mobility shapes political participation in Lagos, Nigeria. Other research interests include ethnic politics and public service provision.
 
 Before academia, I worked in international development in Washington, DC and in Dhaka and Cox's Bazar, Bangladesh. I received an undergraduate degree in Public Policy Analysis and Anthropology from Pomona College.
 
@@ -25,17 +25,19 @@ Charnysh, Volha, Jared Kalow, Evan Lieberman, and Erin Walk, 2024. "How Informat
 
 #### Working papers
 
-How Commuting Drives Political Participation in Developing Democracies: Evidence from Nigeria (*job market paper*)
+Roving Citizens: Commuting, Urban Mobility, and Political Participation in Developing Democracies (*job market paper*)
 
 Demanding Diversity or Avoiding Differences? Demographic Preferences in Nigeria
-
-If You Build It, They Will Vote: How Infrastructure Builds Support for Public Transit (with Justin de Benedictis-Kessner and Toby Nowacki)
 
 Nationality, Race, and Support for Those Affected by Climate Change: Evidence from a Survey Experiment in the U.S. (with Volha Charnysh, Evan Lieberman, and Erin Walk), *Conditionally Accepted*
 
 #### Research in progress
 
 Roving Citizens, Stationary Institutions: Urban Mobility and Political Behavior in Developing Democracies (*dissertation*)
+
+Urban Mobility, Exposure, and Policy Preferences: An Experimental Study in Lagos, Nigeria
+
+If You Build It, They Will Vote: How Infrastructure Builds Support for Public Transit (with Justin de Benedictis-Kessner and Toby Nowacki)
 
 Registration Mismatch (with Marco Castradori)
 :::
