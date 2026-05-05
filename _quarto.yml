@@ -6,13 +6,13 @@ website:
   title: "Jared Kalow"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.md
         text: Home
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: none
+    css: style.css
     toc: true
 
 editor: visual

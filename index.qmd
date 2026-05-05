@@ -11,19 +11,21 @@ about:
 ::: column-page
 ## Bio
 
+<img src="kalow_lagos.jpeg" style="float: right; margin-left: 1.5em; margin-bottom: 1em; width: 200px;">
+
 I am a PhD Candidate in Political Science at the Massachusetts Institute of Technology, where I am a Graduate Fellow at the [Global Diversity Lab](https://globaldiversitylab.mit.edu/). I study comparative political behavior, with a focus on urban politics in sub-Saharan Africa. My dissertation examines how urban mobility shapes political participation in Lagos, Nigeria. Other research interests include ethnic politics and public service provision.
 
 Before academia, I worked in international development in Washington, DC and in Dhaka and Cox's Bazar, Bangladesh. I received an undergraduate degree in Public Policy Analysis and Anthropology from Pomona College.
 
-## Selected Projects
 
-#### Publications
 
-Seager, Jennifer, Sarah Baird, Jared Kalow, and Saladin Tauseef, 2023. "Locking Down Adolescent Hunger: COVID-19 and Food Security in Bangladesh." *Applied Economic Perspectives and Policy.* [**Link**](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aepp.13360)
+## Publications
 
 Charnysh, Volha, Jared Kalow, Evan Lieberman, and Erin Walk, 2024. "How Information About Historic Carbon Emissions Affects Support for Climate Aid: Evidence from a Survey Experiment." *Climatic Change*. [**Link**](https://link.springer.com/article/10.1007/s10584-024-03826-y)
 
-#### Working papers
+Seager, Jennifer, Sarah Baird, Jared Kalow, and Saladin Tauseef, 2023. "Locking Down Adolescent Hunger: COVID-19 and Food Security in Bangladesh." *Applied Economic Perspectives and Policy.* [**Link**](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aepp.13360)
+
+## Working papers
 
 Roving Citizens: Commuting, Urban Mobility, and Political Participation in Developing Democracies (*job market paper*)
 
@@ -31,7 +33,8 @@ Demanding Diversity or Avoiding Differences? Demographic Preferences in Nigeria
 
 Nationality, Race, and Support for Those Affected by Climate Change: Evidence from a Survey Experiment in the U.S. (with Volha Charnysh, Evan Lieberman, and Erin Walk), *Conditionally Accepted*
 
-#### Research in progress
+
+## Research in progress
 
 Roving Citizens, Stationary Institutions: Urban Mobility and Political Behavior in Developing Democracies (*dissertation*)
 
@@ -39,5 +42,13 @@ Urban Mobility, Exposure, and Policy Preferences: An Experimental Study in Lagos
 
 If You Build It, They Will Vote: How Infrastructure Builds Support for Public Transit (with Justin de Benedictis-Kessner and Toby Nowacki)
 
-Registration Mismatch (with Marco Castradori)
+Registration Mismatch in African Democracies (with Marco Castradori)
+
+
+---
+[Website template by Apoorva Lal](https://github.com/apoorvalal/minimal_website);
+
 :::
+
+
+

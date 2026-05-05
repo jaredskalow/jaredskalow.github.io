@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap);
+
+body {
+    margin: auto;
+    padding-right: 10em;
+    padding-left: 10em;
+    max-width: 35em;
+    color: black;
+    font-family: IBM Plex Serif, serif;
+    font-size: 100%;
+    line-height: 140%;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5 { font-family: IBM Plex Serif;
+                     font-weight: bold;
+                     border-bottom: 1px dotted black;
+                     color: #B22222; }
+h1 {
+        font-size: 140%;
+}
+
+h2 {
+        font-size: 120%;
+}
+
+h3 {
+        font-size: 110%;
+}
+
+h4 {
+        font-size: 105%;
+}
+
+h5 {
+        font-size: 100%;
+}
+
+h1.title {
+        font-size: 200%;
+        font-weight: bold;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        text-align: left;
+        border: none;
+}
