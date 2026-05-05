@@ -1,18 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap);
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond&display=swap);
 
 body {
     margin: auto;
-    padding-right: 10em;
-    padding-left: 10em;
+    padding-right: 5em;
+    padding-left: 5em;
     max-width: 35em;
     color: black;
-    font-family: IBM Plex Serif, serif;
+    font-family: "EB Garamond", serif;
     font-size: 100%;
     line-height: 140%;
     color: #333;
 }
 
-h1, h2, h3, h4, h5 { font-family: IBM Plex Serif;
+h1, h2, h3, h4, h5 { font-family: "EB Garamond";
                      font-weight: bold;
                      border-bottom: 1px dotted black;
                      color: #B22222; }
