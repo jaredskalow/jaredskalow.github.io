@@ -72,9 +72,9 @@ Prior to MIT, I worked on international development in Bangladesh and Washington
 
 + Kaufman Teaching Certificate Program, MIT Teaching and Learning Lab (Spring 2026)
 
-+ Political Science Math Fresher, MIT Political Science (Fall 2024)
++ Political Science Math Pre-Fresher (Instructor), MIT Political Science (Fall 2024)
 
-+ 17.50: Introduction to Comparative Politics, Professor Chappell Lawson (Fall 2023)
++ 17.50: Introduction to Comparative Politics (TA), for Professor Chappell Lawson (Fall 2023)
 
 ---
 [Website template by Apoorva Lal](https://github.com/apoorvalal/minimal_website)
