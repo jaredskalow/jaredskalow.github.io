@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+  google-analytics:
+    tracking-id: "G-394124586"
+    anonymize-ip: true
+
 website:
   title: "Jared Kalow"
 
