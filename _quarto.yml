@@ -2,12 +2,13 @@ project:
   type: website
   output-dir: docs
 
-  google-analytics:
-    tracking-id: "G-CXVJKMW1ND"
-    anonymize-ip: true
+
 
 website:
   title: "Jared Kalow"
+  google-analytics:
+    tracking-id: "G-CXVJKMW1ND"
+    anonymize-ip: true
 
   navbar:
     left:
@@ -19,14 +20,18 @@ format:
     theme: none
     css: style.css
     toc: true
-
-editor: visual
-
-<!-- Privacy-friendly analytics by Plausible -->
+    include-in-header:
+      text: |
+      <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-FQ2JrqDRleyy8hCry1VNW.js"></script>
 <script>
   window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
   plausible.init()
 </script>
+
+    
+
+editor: visual
+
 
 
