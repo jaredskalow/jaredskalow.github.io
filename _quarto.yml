@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Jared Kalow"
+  site-url: https://jaredskalow.github.io/
+  description: "Jared Kalow is a PhD Candidate in Political Science at MIT studying comparative political behavior, urban politics, and ethnic politics in the Global South."
   google-analytics:
     tracking-id: "G-CXVJKMW1ND"
     anonymize-ip: true
