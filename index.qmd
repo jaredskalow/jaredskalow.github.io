@@ -80,6 +80,20 @@ Prior to MIT, I worked in international development in Bangladesh and Washington
   </details>
 
 
+
+- <details>
+
+<summary>If You Build It, They Will Vote: How Infrastructure Builds Support for Public Transit (with Justin de Benedictis-Kessner and Toby Nowacki)</summary>
+
+ ::: abstract
+Does public infrastructure investment build its own political constituency? Policy feedback theory holds that government programs reshape the coalitions that sustain them, yet credible causal evidence remains limited for place-based infrastructure. We exploit the staggered expansion of the Los Angeles Metro system across three consecutive countywide transit-funding ballot measures to estimate whether proximity to newly opened stations increases voter support for transit investment. Using precinct-level election returns, we find that gaining a nearby station increases ballot-measure support by approximately 2.7 percentage points — an effect robust across multiple modern difference-in-differences estimators. There is no evidence of a corresponding shift in presidential vote share, suggesting that there is no general partisan realignment as a result of transit expansion. The feedback effects of transit expansion are concentrated in areas with less pre-existing transit usage, consistent with a mechanism whereby new infrastructure converts unfamiliar voters into supporters. Using individual-level voter file data, we show that the effects operate through two channels: mobilization of existing voters near new stations and the attraction of new registrants to station-adjacent areas. These findings demonstrate that place-based investment can generate localized policy feedback that expands its own electoral coalition.
+
+  :::
+
+  </details>
+
+
+
 ## Research in progress
 
 - Roving Citizens, Stationary Institutions: Urban Mobility and Political Behavior in Developing Democracies (*dissertation*)
