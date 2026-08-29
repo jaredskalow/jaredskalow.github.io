@@ -6,7 +6,7 @@ about:
   links:
     - text: CV
       href: kalow_cv2.pdf
----git
+---
 ---
 
 ::: column-page
