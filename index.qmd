@@ -7,7 +7,6 @@ about:
     - text: CV
       href: kalow_cv2.pdf
 ---
----
 
 ::: column-page
 ## Bio
@@ -60,11 +59,11 @@ Prior to MIT, I worked in international development in Bangladesh and Washington
 
 - <details>
 
-  <summary>Roving Citizens: Commuting, Urban Mobility, and Political Participation in Developing Democracies (*job market paper*)</summary>
+  <summary>Commuting to Opportunity: Urban Mobility and Political Participation in Lagos, Nigeria (*job market paper*)</summary>
 
   ::: abstract
-  Commutes are an inescapable part of the urban experience, particularly in contexts where rapid urbanization and inadequate infrastructure have produced sprawling cities with bottle-necked congestion and many urbanites spending hours on the road. How does commuting affect political behavior? Existing theories of political behavior, largely developed and tested in the Global North, argue that commuting is a demobilizing force, isolating individuals from social networks in their home neighborhoods and reducing social capital. I posit that commuting can play another, complementary role by connecting people to social ties across neighborhood lines, which I call distal ties. These distal ties are particularly useful in developing democracies, where individuals often have to rely on social ties to access information to help navigate the state or connect with politically powerful intermediaries. Using an original survey of 1,641 Lagosians, qualitative data from fieldwork and interviews, and administrative and scraped data, I present evidence in concordance with this theory from Lagos, Nigeria. I find that commute time, acting as a proxy for time spent commuting and distance from home, is positively associated with more non-electoral participation, specifically around contacting government officials. This relationship is robust to multiple specifications and robustness checks. I present additional qualitative data and observational findings that commuting allows individuals to access more distal social ties across neighborhood lines and can channel these ties to engage with the state.
-  :::
+ Commuters in cities often spend a considerable proportion of their day, up to four or five hours a day, stuck in traffic on clogged highways, especially in developing countries. How does commuting affect political behavior? Existing studies have largely focused on electoral participation, arguing that commuting demobilizes citizens. However, the downstream effects of commuting on non-electoral participation, which are particularly important in Global South democracies, have received less attention. I argue that commuting can mobilize individuals to participate through non-electoral means by pushing commuters to spend more time in other neighborhoods and build up more diverse social ties. Spending time in these new social milieus allows lower-class commuters to broaden their access to well-connected political intermediaries. I explore these propositions in Lagos, Nigeria, leveraging an original survey, qualitative data from fieldwork and interviews, and administrative and web-scraped data. I find that commute time is positively associated with more claim-making, particularly among lower-class Nigerians. I present additional qualitative data and observational findings that commuting allows individuals to access more extralocal social ties across neighborhood lines and channel these ties to engage with the state. 
+ :::
 
   </details>
 
